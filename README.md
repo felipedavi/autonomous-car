@@ -4,5 +4,5 @@
 
 ## Organização do Repositório
 
-> Pasta "arduino" : Código Fonte Arduino do Robô
+> Pasta "arduino" : Código Fonte Arduino do Robô    
 > Pasta "btcontroller" : Código Fonte do Controlador Windows do Robô
